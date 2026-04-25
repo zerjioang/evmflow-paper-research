@@ -1,0 +1,12 @@
+Dataset Epoch,Sample Size,Success Rate (%),Avg. Time (ms/item),Throughput (opcodes/s),Peak Memory (MB),Avg. Bytecode Size (bytes)
+eth_get_contract_random_2015.csv,2086,100.00,1.9032,1142865.61,40.14,2181.81
+eth_get_contract_random_2016.csv,10000,100.00,0.6794,1377678.94,40.64,939.90
+eth_get_contract_random_2017.csv,10000,100.00,2.1490,1484015.46,65.33,3200.05
+eth_get_contract_random_2018.csv,10000,100.00,2.7518,1592455.29,48.64,4400.10
+eth_get_contract_random_2019.csv,10000,100.00,3.0882,1775266.99,60.77,5499.71
+eth_get_contract_random_2020.csv,10000,100.00,3.7237,1680746.80,159.35,6285.97
+eth_get_contract_random_2021.csv,10000,100.00,3.8332,2032766.97,48.89,7816.37
+eth_get_contract_random_2022.csv,10000,100.00,3.2414,2305185.86,44.89,7498.33
+eth_get_contract_random_2023.csv,10000,100.00,3.3097,2206136.91,56.71,7337.33
+eth_get_contract_random_2024.csv,10000,100.00,2.9103,2081097.27,69.08,6080.77
+eth_get_contract_random_2025.csv,10000,100.00,2.1343,2070379.98,61.08,4439.64
